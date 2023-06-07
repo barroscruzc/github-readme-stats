@@ -424,11 +424,11 @@ export const themes = {
     bg_color: "030314",
   },
   ambient_gradient: {
-    title_color: "#FFFFFF",
-    text_color: "#FFFFFF",
-    icon_color: "#FFFFFF",
-    border_color:"#AE58A1",
-    bg_color: "35deg, #4158D0, #C850C0, #FFCC70",
+    title_color: "FFFFFF",
+    text_color: "FFFFFF",
+    icon_color: "FFFFFF",
+    border_color:"AE58A1",
+    bg_color: "linear-gradient(35deg, 4158D0, C850C0, FFCC70)",
   },
 };
 
